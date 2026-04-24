@@ -17,3 +17,4 @@ This project was completed as part of the **Deloitte Data Analytics Job Simulati
 - `Data/`: Sample datasets used for analysis.
 - `Media/`: Screenshots of the final dashboard.
 
+Link for project: https://public.tableau.com/views/1st_Project_17762725688770/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
